@@ -1,6 +1,6 @@
 ### Hi there, I'm Alex O -  👋
 
-## I'm a Software Developer In Test & I'm Also Learning FullStack Development
+## I'm A Software Developer In Test & I'm Also Learning FullStack Development
 
 ### Connect with me:
 
